@@ -9,7 +9,7 @@ Travel Booking is a case study of a hotel reservation platform using Next.js and
 
 ![smartmockups_lb4dtxsx](https://user-images.githubusercontent.com/42308135/204942042-fe23854f-d8ed-42bc-b234-0132af974e68.jpg)
 
-🔗 [Open live Demo](https://travel-nextjs-typescript-tailwind-mapbox-calendar-date-picker.vercel.app/)
+🔗 [Open live Demo]
 
 ## Tech Stack
 
